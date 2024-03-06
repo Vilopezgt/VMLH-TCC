@@ -5,19 +5,19 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>quirk</string>
+	<string>iPsycare</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
-	<string>tech.econn.quirk</string>
+	<string></string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>quirk</string>
+	<string>iPsycare</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.4.0</string>
+	<string>1.0.0</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
@@ -31,7 +31,7 @@
 			<string>OAuthRedirect</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>tech.econn.quirk</string>
+				<string></string>
 			</array>
 		</dict>
 	</array>
@@ -59,25 +59,25 @@
 		<true/>
 	</dict>
 	<key>NSCalendarsUsageDescription</key>
-	<string>Allow quirk to access your calendar</string>
+	<string>Allow iPsycare to access your calendar</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Allow quirk to use your camera</string>
+	<string>Allow iPsycare to use your camera</string>
 	<key>NSContactsUsageDescription</key>
-	<string>Allow quirk to access your contacts</string>
+	<string>Allow iPsycare to access your contacts</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Allow quirk to use your location</string>
+	<string>Allow iPsycare to use your location</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Allow quirk to access your microphone</string>
+	<string>Allow iPsycare to access your microphone</string>
 	<key>NSMotionUsageDescription</key>
-	<string>Allow quirk to access your device's accelerometer</string>
+	<string>Allow iPsycare to access your device's accelerometer</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Give quirk permission to save photos</string>
+	<string>Give iPsycare permission to save photos</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Give quirk permission to access your photos</string>
+	<string>Give iPsycare permission to access your photos</string>
 	<key>NSRemindersUsageDescription</key>
-	<string>Allow quirk to access your reminders</string>
+	<string>Allow iPsycare to access your reminders</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Allow quirk to use your location</string>
+	<string>Allow iPsycare to use your location</string>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>fetch</string>
