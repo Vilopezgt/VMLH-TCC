@@ -1,19 +1,19 @@
 {
   "expo": {
     "icon": "./assets/ios.png",
-    "name": "quirk",
-    "slug": "quirk",
+    "name": "iPsycare",
+    "slug": "iPsycare",
     "privacy": "unlisted",
     "sdkVersion": "35.0.0",
     "platforms": ["ios", "android"],
-    "version": "2.4.0",
+    "version": "1.0.0",
     "orientation": "portrait",
-    "githubUrl": "https://github.com/Flaque/quirk",
-    "primaryColor": "#F8A5C2",
+    "githubUrl": "",
+    "primaryColor": "#F24643D",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#F8A5C2"
+      "backgroundColor": "#F000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,16 +21,16 @@
     "assetBundlePatterns": ["assets/**"],
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "tech.econn.quirk",
+      "bundleIdentifier": "",
       "icon": "./assets/ios.png",
-      "publishBundlePath": "ios/quirk/Supporting/shell-app.bundle",
-      "publishManifestPath": "ios/quirk/Supporting/shell-app-manifest.json"
+      "publishBundlePath": "ios/iPsycare/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/iPsycare/Supporting/shell-app-manifest.json"
     },
     "android": {
-      "package": "tech.econn.quirk",
+      "package": "",
       "permissions": [],
       "icon": "./assets/android.png",
-      "versionCode": 17,
+      "versionCode": 1,
       "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
       "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
     },
@@ -42,8 +42,8 @@
         {
           "file": "sentry-expo/upload-sourcemaps",
           "config": {
-            "organization": "evan-conrad",
-            "project": "quirk"
+            "organization": "",
+            "project": "iPsycare"
           }
         }
       ]
