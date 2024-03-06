@@ -42,7 +42,7 @@
         {
           "file": "sentry-expo/upload-sourcemaps",
           "config": {
-            "organization": "",
+            "organization": "Vilopezgt",
             "project": "iPsycare"
           }
         }
